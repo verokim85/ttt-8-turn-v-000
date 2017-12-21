@@ -1,5 +1,5 @@
 def turn(board)
-  puts "Please enter 1-9: #{input}"
+  puts "Please enter 1-9: #{board}"
 end
 
 def display_board(board)
