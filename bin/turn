@@ -8,4 +8,3 @@ display_board(board)
 turn(board)
 board = gets.strip
 turn(board)
-input_to_index(board)
