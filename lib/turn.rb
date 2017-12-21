@@ -1,4 +1,4 @@
-def turn(board, index)
+def turn(board, input)
   puts "Please enter 1-9:"
 end
 
