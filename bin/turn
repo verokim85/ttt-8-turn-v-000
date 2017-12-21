@@ -7,3 +7,4 @@ puts "Welcome to Tic Tac Toe!"
 display_board(board)
 turn(board)
 board = gets.strip
+input_to_index(board)
