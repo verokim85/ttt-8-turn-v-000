@@ -9,4 +9,3 @@ display_board(board)
 
 board = gets.strip
 turn(board)
-
