@@ -1,6 +1,5 @@
 def turn(board)
   puts "Please enter 1-9:"
-  move(board, index, character = "X")
 end
 
 def display_board(board)
